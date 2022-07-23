@@ -6,6 +6,7 @@ These are all my projects in the Cybersecurity Bootcamp of [42 Madrid Fundación
 
 ## Index
 
-|   Name    | Directory | Repo Files | Mark |
-|:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-ft_onion        | [42Cyber-ft_onion/](https://github.com/somedevv/42Cyber-ft_onion)  | index.html,  nginx.conf,  sshd_config, torrc | [![agaliste's 42 ft_onion Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2660337)](https://github.com/JaeSeoKim/badge42) |
+|   Name    | Repo | Mark |
+|:-----------------------------------:|:------------------:|:--------------:|
+ft_onion        | [42Cyber-ft_onion/](https://github.com/somedevv/42Cyber-ft_onion)  | [![agaliste's 42 ft_onion Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2660337)](https://github.com/JaeSeoKim/badge42) |
+coRSAir        | [42Cyber-coRSAir/](https://github.com/somedevv/42Cyber-coRSAir)  |  |
